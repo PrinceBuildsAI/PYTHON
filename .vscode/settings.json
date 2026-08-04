@@ -1,3 +1,13 @@
 {
-  "cSpell.words": ["racecar"]
+  "cSpell.words": ["racecar"],
+  "python-envs.defaultEnvManager": "ms-python.python:conda",
+  "python-envs.defaultPackageManager": "ms-python.python:conda",
+  "python.defaultInterpreterPath": "C:\\Users\\singh\\anaconda3\\python.exe",
+  "cSpell.ignoreWords": [
+    "PROGRAMING",
+    "createfile",
+    "deletefile",
+    "readfileandfolder",
+    "updatefile"
+  ]
 }
