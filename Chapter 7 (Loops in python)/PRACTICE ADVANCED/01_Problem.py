@@ -64,7 +64,7 @@
 # n = int(input("Which number factors you want: "))
 
 # for i in range(1, n+1):
-#     if n%i == 0:
+#     if n%i == 0:                                                                     
 #         print(i)
 
 """perfect number"""
@@ -188,14 +188,32 @@
 
 '''Palindrome using while'''
 
-a = int(input("Enter a number: "))
-copy = a
-rev = 0
+# a = int(input("Enter a number: "))
+# copy = a
+# rev = 0
 
-while a>0:
-    rev = rev*10 + a % 10
-    a = a//10
-if copy == rev:
-    print("palindrome")
-else:
-    print("Not palindrome")
+# while a>0:
+#     rev = rev*10 + a % 10
+#     a = a//10
+# if copy == rev:
+#     print("palindrome")
+# else:
+#     print("Not palindrome")
+
+'''prime in a given range'''
+
+# start = int(input("Enter starting range: "))
+# end = int(input("Enter ending range: "))
+
+# for i in range (start, end+1):
+#     if i<2:
+#         continue
+    
+#     count = 0
+#     for j in range(2,i):
+#         if i%j == 0:
+#             count = 1
+#             break
+#     if count == 0:
+#         print(i, end=" ")
+    
