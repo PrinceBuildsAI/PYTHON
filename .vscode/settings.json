@@ -1,9 +1,11 @@
 {
-  "cSpell.words": ["racecar"],
+  "cSpell.words": ["Dunder", "racecar"],
   "python-envs.defaultEnvManager": "ms-python.python:conda",
   "python-envs.defaultPackageManager": "ms-python.python:conda",
   "python.defaultInterpreterPath": "C:\\Users\\singh\\anaconda3\\python.exe",
   "cSpell.ignoreWords": [
+    "Factorymumbai",
+    "Factorypune",
     "PROGRAMING",
     "createfile",
     "deletefile",
