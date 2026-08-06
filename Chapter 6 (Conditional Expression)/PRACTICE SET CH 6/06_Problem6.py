@@ -10,7 +10,7 @@ following scheme:
 marks = float(input("Enter Your marks: "))
 
 if(marks<=100 and marks>=90):
-    grade="Ex"
+     grade="Ex"
 elif(marks<90 and marks>=80):
      grade="A"
 elif(marks<80 and marks>=70):
