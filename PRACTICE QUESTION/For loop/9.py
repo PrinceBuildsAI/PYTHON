@@ -28,7 +28,7 @@
 # else:
 #     print(num, "is not a prime number")
 
-    
+
 
 #! check the given number is prime or not in a given range
 
