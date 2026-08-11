@@ -54,6 +54,7 @@ class Bank:
             Bank.data.append(info)
             Bank.__update()
 
+<<<<<<< HEAD
     def depositemoney(self):
         accnumber = input("Enter your Account number: ")
         pin = int(input("Enter your Pin: "))
@@ -170,6 +171,9 @@ class Bank:
                 Bank.data.pop(index)
                 print("Account delete successfuly")
                 Bank.__update()
+=======
+def depositmoney(self):
+>>>>>>> b5301536f34e6fc3ce97a69f57f81f1e3f9fc579
 
 
 user = Bank()
@@ -187,6 +191,7 @@ if check == 1:
     user.createaccount()
 if check == 2:
     user.depositemoney()
+<<<<<<< HEAD
 if check == 3:
     user.withdrwamoney()
 if check == 4:
@@ -197,3 +202,9 @@ if check == 5:
 
 if check == 6:
     user.deleteaccount()
+=======
+#! git commit
+#! git commit 2
+#! git commit 3
+#! git commit 4
+>>>>>>> b5301536f34e6fc3ce97a69f57f81f1e3f9fc579
