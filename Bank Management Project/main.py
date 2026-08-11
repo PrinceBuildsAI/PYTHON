@@ -56,6 +56,8 @@ class Bank:
             Bank.data.append(info)
             Bank.__update()
 
+def depositmoney(self):
+    
 
 
 user = Bank()
@@ -73,3 +75,4 @@ if check == 1:
     user.createaccount()
 if check == 2:
     user.depositemoney()
+#! git commit
